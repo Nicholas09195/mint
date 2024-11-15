@@ -105,7 +105,7 @@ function monckey_ani () {
         . f d d f d d f d d b e f f f f 
         . . f f f f f f f f f f f f f . 
         `],
-    200,
+    150,
     true
     )
     mySprite.vx = -50
@@ -235,3 +235,4 @@ scene.setBackgroundImage(img`
     7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
     `)
 monckey_ani()
+tiles.setCurrentTilemap(tilemap`level2`)
