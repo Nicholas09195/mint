@@ -4,7 +4,7 @@
     "dependencies": {
         "device": "*",
         "animation": "*",
-        "jungle ext": "pub:35146-86613-34112-64337"
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
     },
     "files": [
         "main.blocks",
