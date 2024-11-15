@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "jungle ext": "pub:35146-86613-34112-64337"
     },
     "files": [
         "main.blocks",
